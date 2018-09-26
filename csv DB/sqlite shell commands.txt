@@ -1,0 +1,5 @@
+sqlite3 ip2locationDB.sqlite < ip2location_database_script.sql
+sqlite3
+sqlite> .open ip2locationDB.sqlite 
+sqlite> .mode csv
+sqlite>.import CSV_PATH DB_TABLE 
