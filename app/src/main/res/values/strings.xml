@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Connection Monitor</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="open_db_error">Unable to open the Database&#8230;</string>
+    <string name="no_connection_error">Error: internet connection not available&#8230;</string>
+    <string name="map_error">Error creating the map&#8230;</string>
+
+    <string name="set">SET</string>
+    <string name="delay_picker">Delay Picker</string>
+
+    <string name="loading_database">Loading Database&#8230;</string>
+
+    <string name="ip_address_field">Ip Address: </string>
+    <string name="app_name_field">App Name: </string>
+    <string name="app_package_field">App Package: </string>
+    <string name="position_field">Position: </string>
+    <string name="coords_field">Coordinates: </string>
+    <string name="protocol_field">Connection Protocol: </string>
+    <string name="state_field">Connection State: </string>
+</resources>
