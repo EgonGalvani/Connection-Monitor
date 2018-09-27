@@ -27,7 +27,7 @@ Installation
 
 Download the APK 
 ----------------
-The apk can be downloaded from [here] (https://github.com/EgonGalvani/Connection-Monitor/blob/master/app-debug.apk) 
+The apk can be downloaded from [here](https://github.com/EgonGalvani/Connection-Monitor/blob/master/app-debug.apk) 
 
 3rd party libraries 
 -------------------
