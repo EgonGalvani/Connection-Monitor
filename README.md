@@ -1,10 +1,10 @@
 # Connection-Monitor
 
-Connection Monitor is an android app thanks to a user can monitor all his device connection in real time. 
+Connection Monitor is an android app to monitor all the device connections in real time. 
 
 Database
 ---------
-This library requires IP2Proxy CSV DB5 database to check if an IP address is a proxy and  CSV database to create statistics charts. 
+This library requires IP2Proxy CSV DB5 database to obtain information about the IP addresses to which the device is connected. 
 The database(Ipv4) can be downloaded at: 
 - [Free IP2Proxy Data](http://lite.ip2location.com/database/ip-country-region-city-latitude-longitude)
 
