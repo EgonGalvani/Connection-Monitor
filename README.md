@@ -1,4 +1,4 @@
-# Connection-Monitor
+# Connection-Monitor [DEPRECATED]
 
 Connection Monitor is an android app to monitor all the device connections in real time. 
 
